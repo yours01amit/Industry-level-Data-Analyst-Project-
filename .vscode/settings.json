@@ -1,0 +1,6 @@
+{
+    "jupyter.themeMatplotlibPlots": false,
+    "terminal.integrated.cursorWidth": 30,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.codeLensFontSize": 10
+}
